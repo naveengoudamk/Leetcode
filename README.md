@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/naveengoudamk/Leetcode/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/naveengoudamk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/naveengoudamk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
