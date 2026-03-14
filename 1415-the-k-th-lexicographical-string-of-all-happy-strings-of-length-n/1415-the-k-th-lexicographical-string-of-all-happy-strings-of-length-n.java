@@ -1,4 +1,3 @@
-// Q3. The k-th Lexicographical String of All Happy Strings of Length n (Medium)
 class Solution {
     public String getHappyString(int n, int k) {
         StringBuilder sb = new StringBuilder();
