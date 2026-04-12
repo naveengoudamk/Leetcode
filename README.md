@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveengoudamk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/naveengoudamk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/naveengoudamk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveengoudamk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0874-walking-robot-simulation](https://github.com/naveengoudamk/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/naveengoudamk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
