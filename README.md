@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/naveengoudamk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/naveengoudamk/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/naveengoudamk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/naveengoudamk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/naveengoudamk/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveengoudamk/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naveengoudamk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/naveengoudamk/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/naveengoudamk/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveengoudamk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/naveengoudamk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
