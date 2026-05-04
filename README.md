@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naveengoudamk/Leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveengoudamk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveengoudamk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/naveengoudamk/Leetcode/tree/master/0396-rotate-function) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naveengoudamk/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/naveengoudamk/Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/naveengoudamk/Leetcode/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/naveengoudamk/Leetcode/tree/master/1622-fancy-sequence) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naveengoudamk/Leetcode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
