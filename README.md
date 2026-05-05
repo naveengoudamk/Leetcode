@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/naveengoudamk/Leetcode/tree/master/0061-rotate-list) |
 | [1768-merge-strings-alternately](https://github.com/naveengoudamk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveengoudamk/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/naveengoudamk/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/naveengoudamk/Leetcode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/naveengoudamk/Leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
