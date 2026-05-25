@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/naveengoudamk/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/naveengoudamk/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/naveengoudamk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/naveengoudamk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/naveengoudamk/Leetcode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/naveengoudamk/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naveengoudamk/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1768-merge-strings-alternately](https://github.com/naveengoudamk/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/naveengoudamk/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveengoudamk/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveengoudamk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/naveengoudamk/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
