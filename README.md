@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveengoudamk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveengoudamk/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/naveengoudamk/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/naveengoudamk/Leetcode/tree/master/0396-rotate-function) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveengoudamk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/naveengoudamk/Leetcode/tree/master/0788-rotated-digits) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/naveengoudamk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveengoudamk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/naveengoudamk/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/naveengoudamk/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/naveengoudamk/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/naveengoudamk/Leetcode/tree/master/0796-rotate-string) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/naveengoudamk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/naveengoudamk/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveengoudamk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/naveengoudamk/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/naveengoudamk/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/naveengoudamk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/naveengoudamk/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
