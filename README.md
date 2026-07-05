@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naveengoudamk/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/naveengoudamk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/naveengoudamk/Leetcode/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/naveengoudamk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveengoudamk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0874-walking-robot-simulation](https://github.com/naveengoudamk/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1301-number-of-paths-with-max-score](https://github.com/naveengoudamk/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/naveengoudamk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveengoudamk/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
