@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/naveengoudamk/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naveengoudamk/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naveengoudamk/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/naveengoudamk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/naveengoudamk/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/naveengoudamk/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/naveengoudamk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naveengoudamk/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveengoudamk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naveengoudamk/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/naveengoudamk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/naveengoudamk/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/naveengoudamk/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/naveengoudamk/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
