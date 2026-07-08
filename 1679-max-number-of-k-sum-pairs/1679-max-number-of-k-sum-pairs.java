@@ -1,36 +1,64 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
 
-        // Sort the array
+
+
         Arrays.sort(nums);
 
-        int left = 0;
-        int right = nums.length - 1;
+        int i = 0 , j = nums.length-1 , count = 0;
 
-        int count = 0;
+        while(i<j)
+        {
+            int sum = nums[i] + nums[j];
 
-        while (left < right) {
-
-            int sum = nums[left] + nums[right];
-
-            // Pair found
-            if (sum == k) {
+            if(sum==k)
+            {
                 count++;
-                left++;
-                right--;
+                i++;
+                j--;
             }
-
-            // Need a bigger sum
-            else if (sum < k) {
-                left++;
+            else if(sum<k)
+            {
+                i++;
             }
-
-            // Need a smaller sum
             else {
-                right--;
+                j--;
             }
         }
+            return count;
+        }
+} 
 
-        return count;
-    }
-}
+        // // Sort the array
+        // Arrays.sort(nums);
+
+        // int left = 0;
+        // int right = nums.length - 1;
+
+        // int count = 0;
+
+        // while (left < right) {
+
+        //     int sum = nums[left] + nums[right];
+
+        //     // Pair found
+        //     if (sum == k) {
+        //         count++;
+        //         left++;
+        //         right--;
+        //     }
+
+        //     // Need a bigger sum
+        //     else if (sum < k) {
+        //         left++;
+        //     }
+
+        //     // Need a smaller sum
+        //     else {
+        //         right--;
+        //     }
+        // }
+
+//         // return count;
+//     }
+// }
