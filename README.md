@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveengoudamk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/naveengoudamk/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/naveengoudamk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/naveengoudamk/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/naveengoudamk/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1340-jump-game-v) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/naveengoudamk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/naveengoudamk/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/naveengoudamk/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/naveengoudamk/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/naveengoudamk/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/naveengoudamk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/naveengoudamk/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/naveengoudamk/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/naveengoudamk/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naveengoudamk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/naveengoudamk/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/naveengoudamk/Leetcode/tree/master/1622-fancy-sequence) |
@@ -686,5 +690,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/naveengoudamk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naveengoudamk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
