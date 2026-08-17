@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveengoudamk/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/naveengoudamk/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/naveengoudamk/Leetcode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/naveengoudamk/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naveengoudamk/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naveengoudamk/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/naveengoudamk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/naveengoudamk/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/naveengoudamk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/naveengoudamk/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/naveengoudamk/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/naveengoudamk/Leetcode/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/naveengoudamk/Leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/naveengoudamk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/naveengoudamk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/naveengoudamk/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/naveengoudamk/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naveengoudamk/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/naveengoudamk/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
