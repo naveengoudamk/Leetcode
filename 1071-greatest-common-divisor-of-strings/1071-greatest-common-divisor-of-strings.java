@@ -8,19 +8,13 @@ class Solution {
             a = temp;
         }
         return a;
-
     }
-    public String gcdOfStrings(String str1, String str2) 
-    {
-        if(!(str1+str2).equals(str2+str1))
-        {
+    public String gcdOfStrings(String str1, String str2) {
+        if(! (str1+str2).equals(str2+str1)){
             return "";
         }
+        int gcdLength = gcd(str1.length() , str2.length());
 
-        int gcdlength = gcd(str1.length() , str2.length());
-
-        return str1.substring(0, gcdlength);
-
-        
+        return str1.substring(0, gcdLength);
     }
 }
