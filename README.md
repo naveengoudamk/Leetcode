@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/naveengoudamk/Leetcode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/naveengoudamk/Leetcode/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/naveengoudamk/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naveengoudamk/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveengoudamk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
