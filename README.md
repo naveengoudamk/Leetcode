@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveengoudamk/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/naveengoudamk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naveengoudamk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/naveengoudamk/Leetcode/tree/master/0048-rotate-image) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveengoudamk/Leetcode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/naveengoudamk/Leetcode/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/naveengoudamk/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/naveengoudamk/Leetcode/tree/master/0874-walking-robot-simulation) |
