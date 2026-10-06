@@ -8,14 +8,12 @@ class Solution {
                 openUnmatched++;
             } else {
                 if (openUnmatched > 0) {
-                    openUnmatched--; // A previous '(' pairs with this ')'
+                    openUnmatched--;
                 } else {
-                    closeUnmatched++; // No opening brace available, requires adding '('
+                    closeUnmatched++;
                 }
             }
         }
-        
-        // Total moves needed is the sum of all unmatched parentheses
         return openUnmatched + closeUnmatched;
     }
 }
