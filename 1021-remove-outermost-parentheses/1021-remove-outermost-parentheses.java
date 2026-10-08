@@ -5,12 +5,14 @@ class Solution {
         
         for (char c : s.toCharArray()) {
             if (c == '(') {
+                // If opened > 0, this '(' is not an outermost parenthesis
                 if (opened > 0) {
                     result.append(c);
                 }
                 opened++;
             } else {
                 opened--;
+                // If opened > 0, this ')' is not an outermost parenthesis
                 if (opened > 0) {
                     result.append(c);
                 }
@@ -18,5 +20,5 @@ class Solution {
         }
         
         return result.toString();
-            }
+    }
 }
