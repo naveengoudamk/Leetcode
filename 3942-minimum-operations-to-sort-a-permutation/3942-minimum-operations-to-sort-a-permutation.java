@@ -2,7 +2,6 @@ class Solution {
     public int minOperations(int[] nums) {
         int n = nums.length;
         
-        // Find the index of 0
         int k = -1;
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) {
@@ -11,7 +10,6 @@ class Solution {
             }
         }
         
-        // Check if the array is cyclically increasing
         boolean isIncreasing = true;
         for (int i = 0; i < n - 1; i++) {
             int currentIdx = (k + i) % n;
@@ -26,7 +24,6 @@ class Solution {
             return Math.min(k, 2 + n - k);
         }
         
-        // Check if the array is cyclically decreasing
         boolean isDecreasing = true;
         for (int i = 0; i < n - 1; i++) {
             int currentIdx = (k - i + n) % n;
@@ -41,7 +38,6 @@ class Solution {
             return Math.min(n - k, k + 2);
         }
         
-        // If neither condition is met, it is impossible to sort
         return -1;
     }
 }
