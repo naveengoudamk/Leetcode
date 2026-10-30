@@ -1,11 +1,6 @@
 import java.util.*;
 
-/**
- * Problem: LeetCode 3841 - Palindromic Path Queries in a Tree
- * Difficulty: Hard
- * Language: Java
- * Author: CodeByTushu
- */
+
 class Solution {
     int[] bit;
     int n;
