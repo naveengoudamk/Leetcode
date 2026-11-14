@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/naveengoudamk/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/naveengoudamk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/naveengoudamk/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveengoudamk/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/naveengoudamk/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/naveengoudamk/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/naveengoudamk/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naveengoudamk/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/naveengoudamk/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/naveengoudamk/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveengoudamk/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/naveengoudamk/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/naveengoudamk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/naveengoudamk/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naveengoudamk/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naveengoudamk/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naveengoudamk/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/naveengoudamk/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/naveengoudamk/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/naveengoudamk/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
